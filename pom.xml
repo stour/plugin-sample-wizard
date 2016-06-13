@@ -25,7 +25,6 @@
         <module>che-plugin-sample-wizard-shared</module>
         <module>che-plugin-sample-wizard-server</module>
         <module>che-plugin-sample-wizard-ide</module>
-        <module>assembly</module>
     </modules>
     <dependencyManagement>
         <dependencies>
